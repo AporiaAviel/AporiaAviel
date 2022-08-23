@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Git: Cheat Sheet &lpar;advanced&rpar;](https://app.daily.dev/posts/7fk0tsor5?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
+- [System Design: The complete course](https://app.daily.dev/posts/g81uW5ava?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
+- [Pointers in Python? Wait… Is It Possible?](https://app.daily.dev/posts/_XIkN-GGA?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
+- [Hanko - Open source alternative to Auth0 with superpowers](https://app.daily.dev/posts/tK82CzKt_?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
+- [The Complete Guide to Regular Expressions &lpar;Regex&rpar;](https://app.daily.dev/posts/4wkqhDPAP?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
 <!-- daily.dev BOOKMARKS:END -->
