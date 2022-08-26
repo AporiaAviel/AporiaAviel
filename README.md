@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Recent Articles I Liked:
 <!-- daily.dev BOOKMARKS:START -->
+- [jetpack-io/devbox: Instant, easy, predictable shells and containers.](https://app.daily.dev/posts/QYt14E777?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
+- [30+ Popular VS Code Shortcuts for Web Developers](https://app.daily.dev/posts/KlAD5VXra?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
 - [tsk - Organize tasks right in your terminal](https://app.daily.dev/posts/5w-AqzcHm?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
 - [5 Linux Utilities to Improve Your Programming Workflow in 2022](https://app.daily.dev/posts/oek2U20kd?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
 - [Git: Cheat Sheet &lpar;advanced&rpar;](https://app.daily.dev/posts/7fk0tsor5?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
-- [System Design: The complete course](https://app.daily.dev/posts/g81uW5ava?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
-- [Pointers in Python? Wait… Is It Possible?](https://app.daily.dev/posts/_XIkN-GGA?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
 <!-- daily.dev BOOKMARKS:END -->
