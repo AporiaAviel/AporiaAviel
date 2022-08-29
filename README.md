@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Recent Articles I Liked:
 <!-- daily.dev BOOKMARKS:START -->
+- [Stashpad - Jot it down, organize later](https://app.daily.dev/posts/Dm6Q_qYsF?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
 - [10 GitHub Repositories That Help You Become A Better DevOps Engineer](https://app.daily.dev/posts/bQ6bDwQJS?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
 - [apify/crawlee: Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.](https://app.daily.dev/posts/-c8AAT_4l?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
 - [trane-project/trane: An automated practice system for learning complex skills](https://app.daily.dev/posts/6OvgNoiJ0?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
 - [jetpack-io/devbox: Instant, easy, predictable shells and containers.](https://app.daily.dev/posts/QYt14E777?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
-- [30+ Popular VS Code Shortcuts for Web Developers](https://app.daily.dev/posts/KlAD5VXra?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
 <!-- daily.dev BOOKMARKS:END -->
