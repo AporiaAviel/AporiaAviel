@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Recent Articles I Liked:
 <!-- daily.dev BOOKMARKS:START -->
+- [A New Stable Diffusion Plug-In For GIMP &amp; Krita](https://app.daily.dev/posts/l5_gLJxIj?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
 - [Automate your releases on GitHub.](https://app.daily.dev/posts/QTzl8rLK2?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
 - [Visual Studio Code August 2022](https://app.daily.dev/posts/Z1gq4iPFT?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
 - [Stashpad - Jot it down, organize later](https://app.daily.dev/posts/Dm6Q_qYsF?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
 - [10 GitHub Repositories That Help You Become A Better DevOps Engineer](https://app.daily.dev/posts/bQ6bDwQJS?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
-- [apify/crawlee: Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.](https://app.daily.dev/posts/-c8AAT_4l?utm_source=rss&utm_medium=bookmarks&utm_campaign=hkZyw3MsbnmTEcaw1gWnR)
 <!-- daily.dev BOOKMARKS:END -->
